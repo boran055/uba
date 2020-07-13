@@ -1,1 +1,1 @@
-<?php $db_server="beesmart9";
+<?php $db_server="uba";
