@@ -9,7 +9,7 @@ $db_userm= $xadm['XUsername'];
 $db_pasw= $xadm['XPass'];
 $db_nama= $xadm['XDbName'];
 
-$user_name = "$db_userm"; // sesuaikan dengan akun privileges
-$password = "$db_pasw"; // sesuaikan dengan password privileges
-$database = "$db_nama";
-$host_name = "$ipserver"; // Nama Komputer SERVER atau nama domain kalau hosting
+$user_name = "$admin"; // sesuaikan dengan akun privileges
+$password = "$Tamsis123456"; // sesuaikan dengan password privileges
+$database = "$beesmart9";
+$host_name = "$beesmart9.herokuapp.com"; // Nama Komputer SERVER atau nama domain kalau hosting
