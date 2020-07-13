@@ -11,5 +11,5 @@ $db_nama= $xadm['XDbName'];
 
 $user_name = "$admin"; // sesuaikan dengan akun privileges
 $password = "$Tamsis123456"; // sesuaikan dengan password privileges
-$database = "$uba";
+$database = "$master";
 $host_name = "$beesmart9.herokuapp.com"; // Nama Komputer SERVER atau nama domain kalau hosting
