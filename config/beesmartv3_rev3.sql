@@ -2,7 +2,7 @@
 -- version 4.5.1
 -- http://www.phpmyadmin.net
 --
--- Host: 127.0.0.1
+-- Host: beesmart9.herokuapp.com
 -- Generation Time: Nov 12, 2017 at 09:37 AM
 -- Server version: 10.1.19-MariaDB
 -- PHP Version: 5.6.28
