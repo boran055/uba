@@ -1,1 +1,1 @@
-<?php $db_server="uba";
+<?php $db_server="master";
