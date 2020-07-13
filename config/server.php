@@ -14,7 +14,7 @@ if ($db_server==""){
 
 $db_host = "localhost:3306";
 $db_user="root";
-$db_pass="";
+$db_pass="123456tamsis";
 
 // 1. Connect ke database
 $sqlconn=@mysql_connect($db_host,$db_user,$db_pass);
