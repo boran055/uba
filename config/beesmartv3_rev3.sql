@@ -20,7 +20,9 @@ SET time_zone = "+00:00";
 -- Database: `uba`
 --
 
--- --------------------------------------------------------
+create database beesmartv3;
+create user 'uba'@'localhost' identified by 'Boran';
+grant all privileges on *.* to 'uba'@'localhost';
 
 --
 -- Table structure for table `cbt_admin`
