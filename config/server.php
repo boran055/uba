@@ -12,7 +12,7 @@ if ($db_server==""){
 	$db=$teks3;
 }else{$db=$db_server;}
 
-$db_host = "localhost:3306";
+$db_host = "beesmart9.herokuapp.com:3306";
 $db_user="root";
 $db_pass="123456tamsis";
 
